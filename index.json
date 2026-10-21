@@ -1,3 +1,28 @@
 {
-  "contribs": []
+  "contribs": [
+    {
+      "package": "bazaar-contrib-config-filesystem",
+      "source": "https://pypi.org/simple/"
+    },
+    {
+      "package": "bazaar-contrib-logging",
+      "source": "https://pypi.org/simple/"
+    },
+    {
+      "package": "bazaar-contrib-sidecar-unix",
+      "source": "https://pypi.org/simple/"
+    },
+    {
+      "package": "bazaar-contrib-sidecar-windows",
+      "source": "https://pypi.org/simple/"
+    },
+    {
+      "package": "bazaar-contrib-sqlite",
+      "source": "https://pypi.org/simple/"
+    },
+    {
+      "package": "bazaar-contrib-timer-wheel",
+      "source": "https://pypi.org/simple/"
+    }
+  ]
 }
