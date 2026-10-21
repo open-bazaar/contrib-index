@@ -1,0 +1,25 @@
+name: Index CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Setup Python
+        uses: yuchanns/bazaar-compute-node/.github/actions/setup@b1ef183953f146ace34cd6438388b68855eb0041
+
+      - name: Check
+        run: uv run --no-sync python scripts/check.py
