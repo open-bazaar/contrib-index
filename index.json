@@ -1,7 +1,19 @@
 {
   "contribs": [
     {
+      "package": "bazaar-contrib-claude-code",
+      "source": "https://pypi.org/simple/"
+    },
+    {
+      "package": "bazaar-contrib-codex",
+      "source": "https://pypi.org/simple/"
+    },
+    {
       "package": "bazaar-contrib-config-filesystem",
+      "source": "https://pypi.org/simple/"
+    },
+    {
+      "package": "bazaar-contrib-lark",
       "source": "https://pypi.org/simple/"
     },
     {
@@ -29,7 +41,15 @@
       "source": "https://pypi.org/simple/"
     },
     {
+      "package": "bazaar-contrib-telegram",
+      "source": "https://pypi.org/simple/"
+    },
+    {
       "package": "bazaar-contrib-timer-wheel",
+      "source": "https://pypi.org/simple/"
+    },
+    {
+      "package": "bazaar-contrib-wecom",
       "source": "https://pypi.org/simple/"
     }
   ]
