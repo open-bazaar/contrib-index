@@ -25,6 +25,10 @@
       "source": "https://pypi.org/simple/"
     },
     {
+      "package": "bazaar-contrib-system-service",
+      "source": "https://pypi.org/simple/"
+    },
+    {
       "package": "bazaar-contrib-timer-wheel",
       "source": "https://pypi.org/simple/"
     }
