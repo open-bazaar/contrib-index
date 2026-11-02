@@ -5,6 +5,10 @@
       "source": "https://pypi.org/simple/"
     },
     {
+      "package": "bazaar-contrib-legacy-node-migrations",
+      "source": "https://pypi.org/simple/"
+    },
+    {
       "package": "bazaar-contrib-logging",
       "source": "https://pypi.org/simple/"
     },
