@@ -13,6 +13,10 @@
       "source": "https://pypi.org/simple/"
     },
     {
+      "package": "bazaar-contrib-http",
+      "source": "https://pypi.org/simple/"
+    },
+    {
       "package": "bazaar-contrib-lark",
       "source": "https://pypi.org/simple/"
     },
@@ -25,6 +29,38 @@
       "source": "https://pypi.org/simple/"
     },
     {
+      "package": "bazaar-contrib-server",
+      "source": "https://pypi.org/simple/"
+    },
+    {
+      "package": "bazaar-contrib-server-access",
+      "source": "https://pypi.org/simple/"
+    },
+    {
+      "package": "bazaar-contrib-server-computer",
+      "source": "https://pypi.org/simple/"
+    },
+    {
+      "package": "bazaar-contrib-server-database",
+      "source": "https://pypi.org/simple/"
+    },
+    {
+      "package": "bazaar-contrib-server-github",
+      "source": "https://pypi.org/simple/"
+    },
+    {
+      "package": "bazaar-contrib-server-management",
+      "source": "https://pypi.org/simple/"
+    },
+    {
+      "package": "bazaar-contrib-server-migrations",
+      "source": "https://pypi.org/simple/"
+    },
+    {
+      "package": "bazaar-contrib-server-overview",
+      "source": "https://pypi.org/simple/"
+    },
+    {
       "package": "bazaar-contrib-sidecar-unix",
       "source": "https://pypi.org/simple/"
     },
@@ -34,6 +70,10 @@
     },
     {
       "package": "bazaar-contrib-sqlite",
+      "source": "https://pypi.org/simple/"
+    },
+    {
+      "package": "bazaar-contrib-starlink",
       "source": "https://pypi.org/simple/"
     },
     {
