@@ -37,6 +37,10 @@
       "source": "https://pypi.org/simple/"
     },
     {
+      "package": "bazaar-contrib-server-agent",
+      "source": "https://pypi.org/simple/"
+    },
+    {
       "package": "bazaar-contrib-server-computer",
       "source": "https://pypi.org/simple/"
     },
