@@ -37,11 +37,19 @@
       "source": "https://pypi.org/simple/"
     },
     {
+      "package": "bazaar-contrib-server-activity",
+      "source": "https://pypi.org/simple/"
+    },
+    {
       "package": "bazaar-contrib-server-agent",
       "source": "https://pypi.org/simple/"
     },
     {
       "package": "bazaar-contrib-server-computer",
+      "source": "https://pypi.org/simple/"
+    },
+    {
+      "package": "bazaar-contrib-server-conversation",
       "source": "https://pypi.org/simple/"
     },
     {
@@ -65,6 +73,10 @@
       "source": "https://pypi.org/simple/"
     },
     {
+      "package": "bazaar-contrib-server-usage",
+      "source": "https://pypi.org/simple/"
+    },
+    {
       "package": "bazaar-contrib-sidecar-unix",
       "source": "https://pypi.org/simple/"
     },
@@ -78,6 +90,10 @@
     },
     {
       "package": "bazaar-contrib-starlink",
+      "source": "https://pypi.org/simple/"
+    },
+    {
+      "package": "bazaar-contrib-starlink-conversation",
       "source": "https://pypi.org/simple/"
     },
     {
