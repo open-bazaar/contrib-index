@@ -89,10 +89,6 @@
       "source": "https://pypi.org/simple/"
     },
     {
-      "package": "bazaar-contrib-timer-wheel",
-      "source": "https://pypi.org/simple/"
-    },
-    {
       "package": "bazaar-contrib-wecom",
       "source": "https://pypi.org/simple/"
     }
