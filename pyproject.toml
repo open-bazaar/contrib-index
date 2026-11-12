@@ -4,7 +4,7 @@ version = "0.1.0"
 requires-python = ">=3.15"
 
 [dependency-groups]
-dev = ["bazaar-contrib-manager==0.3.0rc1"]
+dev = ["bazaar-contrib-manager @ git+https://github.com/yuchanns/bazaar-compute-node@4a6364c4eee02021f78b5a8c78789fa5fabd6ad9#subdirectory=contrib/manager"]
 
 [tool.uv]
 package = false

@@ -1,4 +1,4 @@
-"""Validate the public index with the published manager contract."""
+"""Validate the public index with the manager contract."""
 
 from pathlib import Path
 
