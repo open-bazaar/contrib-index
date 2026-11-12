@@ -1,112 +1,268 @@
 {
   "contribs": [
     {
+      "package": "bazaar-contrib-agent",
+      "source": "https://pypi.org/simple/",
+      "summary": "Agent configuration, instances, local composition and management commands",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-agent.svg"
+    },
+    {
+      "package": "bazaar-contrib-audit",
+      "source": "https://pypi.org/simple/",
+      "summary": "Complete agent execution events and their publisher",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-audit.svg"
+    },
+    {
+      "package": "bazaar-contrib-channel",
+      "source": "https://pypi.org/simple/",
+      "summary": "Public channel communication contracts and provider registration",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-channel.svg"
+    },
+    {
       "package": "bazaar-contrib-claude-code",
-      "source": "https://pypi.org/simple/"
+      "source": "https://pypi.org/simple/",
+      "summary": "Claude Code stream-json harness provider for Bazaar Compute Node",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-claude-code.svg"
     },
     {
       "package": "bazaar-contrib-codex",
-      "source": "https://pypi.org/simple/"
+      "source": "https://pypi.org/simple/",
+      "summary": "Codex app-server harness provider for Bazaar Compute Node",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-codex.svg"
+    },
+    {
+      "package": "bazaar-contrib-collaboration",
+      "source": "https://pypi.org/simple/",
+      "summary": "Conversation admission, review and identity association services",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-collaboration.svg"
+    },
+    {
+      "package": "bazaar-contrib-config",
+      "source": "https://pypi.org/simple/",
+      "summary": "Node and server configuration services",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-config.svg"
     },
     {
       "package": "bazaar-contrib-config-filesystem",
-      "source": "https://pypi.org/simple/"
+      "source": "https://pypi.org/simple/",
+      "summary": "Filesystem storage for configuration documents",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-config-filesystem.svg"
+    },
+    {
+      "package": "bazaar-contrib-config-versions",
+      "source": "https://pypi.org/simple/",
+      "summary": "Configuration document versioning and migrations",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-config-versions.svg"
+    },
+    {
+      "package": "bazaar-contrib-harness",
+      "source": "https://pypi.org/simple/",
+      "summary": "Public harness execution contracts and provider registration",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-harness.svg"
     },
     {
       "package": "bazaar-contrib-http",
-      "source": "https://pypi.org/simple/"
+      "source": "https://pypi.org/simple/",
+      "summary": "Shared HTTP routing and server services",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-http.svg"
+    },
+    {
+      "package": "bazaar-contrib-invoke",
+      "source": "https://pypi.org/simple/",
+      "summary": "Command registration and invocation",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-invoke.svg"
     },
     {
       "package": "bazaar-contrib-lark",
-      "source": "https://pypi.org/simple/"
+      "source": "https://pypi.org/simple/",
+      "summary": "Lark Channel provider for Bazaar Compute Node",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-lark.svg"
     },
     {
       "package": "bazaar-contrib-legacy-node-migrations",
-      "source": "https://pypi.org/simple/"
+      "source": "https://pypi.org/simple/",
+      "summary": "Published Node 1–32 historical database upgrades",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-legacy-node-migrations.svg"
     },
     {
       "package": "bazaar-contrib-logging",
-      "source": "https://pypi.org/simple/"
+      "source": "https://pypi.org/simple/",
+      "summary": "Structured logging for node and server events",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-logging.svg"
+    },
+    {
+      "package": "bazaar-contrib-manager",
+      "source": "https://pypi.org/simple/",
+      "summary": "Plugin installation, configuration and index management",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-manager.svg"
+    },
+    {
+      "package": "bazaar-contrib-messages",
+      "source": "https://pypi.org/simple/",
+      "summary": "Message contracts, history, delivery and conversation services",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-messages.svg"
+    },
+    {
+      "package": "bazaar-contrib-node-management",
+      "source": "https://pypi.org/simple/",
+      "summary": "Default node composition, health reporting and upgrades",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-node-management.svg"
+    },
+    {
+      "package": "bazaar-contrib-reminder",
+      "source": "https://pypi.org/simple/",
+      "summary": "Persistent reminders, recurrence and agent wake scheduling",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-reminder.svg"
+    },
+    {
+      "package": "bazaar-contrib-schema",
+      "source": "https://pypi.org/simple/",
+      "summary": "Module schema registration and versioned migrations",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-schema.svg"
     },
     {
       "package": "bazaar-contrib-server",
-      "source": "https://pypi.org/simple/"
+      "source": "https://pypi.org/simple/",
+      "summary": "Web application shell and themes for Bazaar Compute Server",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-server.svg"
     },
     {
       "package": "bazaar-contrib-server-access",
-      "source": "https://pypi.org/simple/"
+      "source": "https://pypi.org/simple/",
+      "summary": "Web sessions and access control for Bazaar Compute Server",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-server-access.svg"
     },
     {
       "package": "bazaar-contrib-server-activity",
-      "source": "https://pypi.org/simple/"
+      "source": "https://pypi.org/simple/",
+      "summary": "Recorded node activity, execution turns and usage",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-server-activity.svg"
     },
     {
       "package": "bazaar-contrib-server-agent",
-      "source": "https://pypi.org/simple/"
+      "source": "https://pypi.org/simple/",
+      "summary": "Agent management pages and permissions",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-server-agent.svg"
     },
     {
       "package": "bazaar-contrib-server-computer",
-      "source": "https://pypi.org/simple/"
+      "source": "https://pypi.org/simple/",
+      "summary": "Computer enrollment, remote calls and management pages",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-server-computer.svg"
     },
     {
       "package": "bazaar-contrib-server-conversation",
-      "source": "https://pypi.org/simple/"
+      "source": "https://pypi.org/simple/",
+      "summary": "Conversation history, search, messages and admission review",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-server-conversation.svg"
     },
     {
       "package": "bazaar-contrib-server-database",
-      "source": "https://pypi.org/simple/"
+      "source": "https://pypi.org/simple/",
+      "summary": "Dedicated database for Bazaar Compute Server",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-server-database.svg"
     },
     {
       "package": "bazaar-contrib-server-github",
-      "source": "https://pypi.org/simple/"
+      "source": "https://pypi.org/simple/",
+      "summary": "GitHub sign-in for Bazaar Compute Server",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-server-github.svg"
     },
     {
       "package": "bazaar-contrib-server-management",
-      "source": "https://pypi.org/simple/"
+      "source": "https://pypi.org/simple/",
+      "summary": "Default server composition and configuration",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-server-management.svg"
     },
     {
       "package": "bazaar-contrib-server-migrations",
-      "source": "https://pypi.org/simple/"
+      "source": "https://pypi.org/simple/",
+      "summary": "Historical server database migrations",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-server-migrations.svg"
     },
     {
       "package": "bazaar-contrib-server-overview",
-      "source": "https://pypi.org/simple/"
+      "source": "https://pypi.org/simple/",
+      "summary": "Extensible overview page for Bazaar Compute Server",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-server-overview.svg"
     },
     {
       "package": "bazaar-contrib-server-usage",
-      "source": "https://pypi.org/simple/"
+      "source": "https://pypi.org/simple/",
+      "summary": "Agent status and token usage on the server overview",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-server-usage.svg"
+    },
+    {
+      "package": "bazaar-contrib-sidecar",
+      "source": "https://pypi.org/simple/",
+      "summary": "Transport-independent sidecar contracts and exposed service calls",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-sidecar.svg"
     },
     {
       "package": "bazaar-contrib-sidecar-unix",
-      "source": "https://pypi.org/simple/"
+      "source": "https://pypi.org/simple/",
+      "summary": "Native Unix transport for Bazaar sidecar",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-sidecar-unix.svg"
     },
     {
       "package": "bazaar-contrib-sidecar-windows",
-      "source": "https://pypi.org/simple/"
+      "source": "https://pypi.org/simple/",
+      "summary": "Native Windows transport for Bazaar sidecar",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-sidecar-windows.svg"
     },
     {
       "package": "bazaar-contrib-sqlite",
-      "source": "https://pypi.org/simple/"
+      "source": "https://pypi.org/simple/",
+      "summary": "SQLite implementation of the shared storage contract",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-sqlite.svg"
     },
     {
       "package": "bazaar-contrib-starlink",
-      "source": "https://pypi.org/simple/"
+      "source": "https://pypi.org/simple/",
+      "summary": "Node-to-server calls and audit event reporting",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-starlink.svg"
     },
     {
       "package": "bazaar-contrib-starlink-conversation",
-      "source": "https://pypi.org/simple/"
+      "source": "https://pypi.org/simple/",
+      "summary": "Remote conversation, attachment and reminder access",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-starlink-conversation.svg"
+    },
+    {
+      "package": "bazaar-contrib-status",
+      "source": "https://pypi.org/simple/",
+      "summary": "Node status reporting",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-status.svg"
+    },
+    {
+      "package": "bazaar-contrib-storage",
+      "source": "https://pypi.org/simple/",
+      "summary": "Shared explicit storage contracts and backend selection",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-storage.svg"
     },
     {
       "package": "bazaar-contrib-system-service",
-      "source": "https://pypi.org/simple/"
+      "source": "https://pypi.org/simple/",
+      "summary": "System service management for Bazaar Compute Node",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-system-service.svg"
     },
     {
       "package": "bazaar-contrib-telegram",
-      "source": "https://pypi.org/simple/"
+      "source": "https://pypi.org/simple/",
+      "summary": "Telegram Channel provider for Bazaar Compute Node",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-telegram.svg"
+    },
+    {
+      "package": "bazaar-contrib-timer",
+      "source": "https://pypi.org/simple/",
+      "summary": "Timer contracts, timeout scopes and a shared hierarchical timing wheel",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-timer.svg"
     },
     {
       "package": "bazaar-contrib-wecom",
-      "source": "https://pypi.org/simple/"
+      "source": "https://pypi.org/simple/",
+      "summary": "WeCom Channel provider for Bazaar Compute Node",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-wecom.svg"
     }
   ]
 }
