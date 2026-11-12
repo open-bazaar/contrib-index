@@ -175,6 +175,11 @@
       "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-server-management.svg"
     },
     {
+      "package": "bazaar-contrib-server-market",
+      "source": "https://pypi.org/simple/",
+      "summary": "Per-computer plugin catalogs, installed packages and index subscriptions"
+    },
+    {
       "package": "bazaar-contrib-server-migrations",
       "source": "https://pypi.org/simple/",
       "summary": "Historical server database migrations",
