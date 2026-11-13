@@ -44,6 +44,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 -->
-<rect width="64" height="64" rx="16" fill="#eeebff"/>
-<svg x="16" y="16" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#6251a8" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect width="7" height="9" x="3" y="3" rx="1.5"/><rect width="7" height="5" x="14" y="3" rx="1.5"/><rect width="7" height="9" x="14" y="12" rx="1.5"/><rect width="7" height="5" x="3" y="16" rx="1.5"/></svg>
+<style>:root{color:#4d5fd6;--background:#4d5fd61a;--border:#e6dccb}@media(prefers-color-scheme:dark){:root{color:#8f9dff;--background:#8f9dff21;--border:#222a37}}</style>
+<rect x=".82" y=".82" width="62.36" height="62.36" rx="18" fill="var(--background)" stroke="var(--border)" stroke-width="1.64"/>
+<svg x="14" y="14" width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect width="7" height="9" x="3" y="3" rx="1.5"/><rect width="7" height="5" x="14" y="3" rx="1.5"/><rect width="7" height="9" x="14" y="12" rx="1.5"/><rect width="7" height="5" x="3" y="16" rx="1.5"/></svg>
+
 </svg>

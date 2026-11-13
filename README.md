@@ -40,6 +40,11 @@ Official plugin icons are maintained in [`icons/`](icons/) and served from
 Other index authors can use any public image URL. Keep the artwork's required
 attribution with the original files.
 
+Each maintained SVG includes its tile background and border. Display the complete
+image in the market's 39px icon slot; its 36px glyph in the 64px view box preserves
+the approved 22px glyph size. The asset's light and dark palettes follow the
+embedding Server theme through `prefers-color-scheme`.
+
 ## Check changes
 
 ```sh

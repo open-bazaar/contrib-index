@@ -1,4 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
-<rect width="64" height="64" rx="16" fill="#f7f8fa"/>
-<svg x="14" y="14" width="36" height="36" viewBox="0.00 0.50 24.00 24.00" fill="#b65132"><path fill="#b65132" fill-rule="evenodd" d="M20.998 10.949H24v3.102h-3v3.028h-1.487V20H18v-2.921h-1.487V20H15v-2.921H9V20H7.488v-2.921H6V20H4.487v-2.921H3V14.05H0v-3.1h3V5h17.998zM6 10.949h1.488V8.102H6zm10.51 0H18V8.102h-1.49z" clip-rule="evenodd"/></svg>
+<!-- theSVG (MIT) claude-code via Iconify -->
+<style>:root{color:#d97757;--background:#d9775712;--border:#e6dccb}@media(prefers-color-scheme:dark){:root{color:#d97757;--background:#d9775712;--border:#222a37}}</style>
+<rect x=".82" y=".82" width="62.36" height="62.36" rx="18" fill="var(--background)" stroke="var(--border)" stroke-width="1.64"/>
+<svg x="14" y="14" width="36" height="36" viewBox="0.00 0.50 24.00 24.00" fill="currentColor"><path fill="currentColor" fill-rule="evenodd" d="M20.998 10.949H24v3.102h-3v3.028h-1.487V20H18v-2.921h-1.487V20H15v-2.921H9V20H7.488v-2.921H6V20H4.487v-2.921H3V14.05H0v-3.1h3V5h17.998zM6 10.949h1.488V8.102H6zm10.51 0H18V8.102h-1.49z" clip-rule="evenodd"/></svg>
 </svg>

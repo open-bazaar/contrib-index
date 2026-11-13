@@ -44,6 +44,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 -->
-<rect width="64" height="64" rx="16" fill="#eeebff"/>
-<svg x="16" y="16" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#6251a8" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 0 1 9-9 9.75 9.75 0 0 1 6.74 2.74L21 8"/><path d="M21 3v5h-5"/><path d="M21 12a9 9 0 0 1-9 9 9.75 9.75 0 0 1-6.74-2.74L3 16"/><path d="M8 16H3v5"/></svg>
+<style>:root{color:#4d5fd6;--background:#4d5fd61a;--border:#e6dccb}@media(prefers-color-scheme:dark){:root{color:#8f9dff;--background:#8f9dff21;--border:#222a37}}</style>
+<rect x=".82" y=".82" width="62.36" height="62.36" rx="18" fill="var(--background)" stroke="var(--border)" stroke-width="1.64"/>
+<svg x="14" y="14" width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 0 1 9-9 9.75 9.75 0 0 1 6.74 2.74L21 8"/><path d="M21 3v5h-5"/><path d="M21 12a9 9 0 0 1-9 9 9.75 9.75 0 0 1-6.74-2.74L3 16"/><path d="M8 16H3v5"/></svg>
+
 </svg>
