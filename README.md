@@ -1,13 +1,13 @@
 # Open Bazaar contrib index
 
-`index.json` lists official Bazaar plugins, including built-in and independently distributed plugins for Bazaar Compute Node.
+`index.json` lists official Bazaar Contribs, including built-in and independently distributed Contribs for Bazaar Compute Node.
 BCN fetches a snapshot when building the manager and ships it as a second built-in index. Default node and server configurations subscribe to both that local snapshot and this online index.
 
 Merge index updates before building the BCN release. The packaged
 `resource://bazaar_contrib_manager/open_bazaar_index.json` must include the same
 display content for users who cannot reach the online index.
 
-## Add a plugin
+## Add a Contrib
 
 Open a pull request adding an entry to `contribs`:
 
@@ -15,9 +15,9 @@ Open a pull request adding an entry to `contribs`:
 {
   "package": "your-distribution",
   "source": "https://pypi.org/simple/",
-  "summary": "A short introduction to the plugin",
-  "description": "## About\n\nA Markdown description of the plugin.",
-  "icon_url": "https://example.org/icons/your-plugin.svg"
+  "summary": "A short introduction to the Contrib",
+  "description": "## About\n\nA Markdown description of the Contrib.",
+  "icon_url": "https://example.org/icons/your-Contrib.svg"
 }
 ```
 
@@ -35,7 +35,7 @@ display fields, including omissions. All contributing index locations remain
 visible in the catalog. This lets an online index replace its packaged snapshot,
 and a user append their own display information.
 
-Official plugin icons are maintained in [`icons/`](icons/) and served from
+Official Contrib icons are maintained in [`icons/`](icons/) and served from
 `https://bazaar-assets.yuchanns.xyz/icons/` by the `bazaar-assets` R2 bucket.
 Other index authors can use any public image URL. Keep the artwork's required
 attribution with the original files.
