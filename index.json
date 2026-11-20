@@ -7,6 +7,12 @@
       "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-agent.svg"
     },
     {
+      "package": "bazaar-contrib-antigravity",
+      "source": "https://pypi.org/simple/",
+      "summary": "Antigravity ACP harness provider for Bazaar Compute Node",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-antigravity.svg"
+    },
+    {
       "package": "bazaar-contrib-audit",
       "source": "https://pypi.org/simple/",
       "summary": "Complete agent execution events and their publisher",
