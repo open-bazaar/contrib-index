@@ -169,6 +169,12 @@
       "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-server-github.svg"
     },
     {
+      "package": "bazaar-contrib-server-magpie",
+      "source": "https://pypi.org/simple/",
+      "summary": "Magpie routing, usage and gateway management in Bazaar Server",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-server-magpie.svg"
+    },
+    {
       "package": "bazaar-contrib-server-management",
       "source": "https://pypi.org/simple/",
       "summary": "Default server composition and configuration",
@@ -177,7 +183,8 @@
     {
       "package": "bazaar-contrib-server-market",
       "source": "https://pypi.org/simple/",
-      "summary": "Per-computer plugin catalogs, installed packages and index subscriptions"
+      "summary": "Per-computer plugin catalogs, installed packages and index subscriptions",
+      "icon_url": "https://bazaar-assets.yuchanns.xyz/icons/bazaar-contrib-server-market.svg"
     },
     {
       "package": "bazaar-contrib-server-migrations",
